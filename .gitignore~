@@ -12,5 +12,4 @@ CTestTestfile.cmake
 build/
 bin/
 lib/
-msg_gen/
 docs/
