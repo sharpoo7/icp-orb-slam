@@ -5,6 +5,8 @@ Makefile
 cmake_install.cmake
 install_manifest.txt
 CTestTestfile.cmake
+*~
+*.swp
 *.user
 .project
 .cproject
@@ -14,3 +16,4 @@ build/
 bin/
 lib/
 docs/
+
